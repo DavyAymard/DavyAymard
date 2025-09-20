@@ -42,7 +42,7 @@
 
 ## 📫 Me contacter
 - 🌐 [LinkedIn](https://www.linkedin.com/in/davylitse)  
-- ✉️ bishop96@users.noreply.github.com  
+- ✉️ litse2010@live.fr  
 
 ---
 
