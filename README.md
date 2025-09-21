@@ -2,7 +2,7 @@
 
 **Network & Endpoint Security Administrator | L2/L3 IT Support | Cybersecurity & IT Audit**  
 
-💻 IT Operations Assistant @ WFP | 🌍 Basé en République centrafricaine  
+💻 IT Operations Assistant @ WFP | Basé en République centrafricaine  
 🔐 Passionné par la cybersécurité, l’administration réseaux, l’audit IT et le partage de connaissances open source.  
 
 ## 🚀 Projets open source
