@@ -9,7 +9,7 @@
 
 ## 🚀 Projets open source
 - 📘 [Incident Response Runbooks](https://github.com/DavyAymard/incident-response-runbooks) — procédures simples pour réagir au phishing et ransomware  
-- ⚡ Network Scripts Collection *(à venir)* — scripts Bash/Python pour admins réseaux & systèmes  
+- ⚡ [Network Scripts Collection](https://github.com/) — scripts Bash/Python pour admins réseaux & systèmes  
 - 🛡️ Cybersecurity Lab Guides *(à venir)* — exercices pratiques pour apprendre la sécurité offensive & défensive  
 - 🖥️ Raspberry Pi IT Lab *(à venir)* — transformer un Raspberry Pi en serveur VPN, NAS ou Pi-hole  
 
